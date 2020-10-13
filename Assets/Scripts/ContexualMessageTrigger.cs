@@ -6,6 +6,7 @@ using System;
 public class ContexualMessageTrigger : MonoBehaviour
 {
     [SerializeField]
+    [TextArea(3,5)]
     private string message = "your message here";
     [SerializeField]
     private float messageDuration = 1.0f;

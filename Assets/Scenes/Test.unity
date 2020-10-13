@@ -928,6 +928,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d664097c3ef8b7643bb8310a34bc054b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  fadeOutDuration: 1
 --- !u!225 &605171539
 CanvasGroup:
   m_ObjectHideFlags: 0
@@ -1423,7 +1424,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   message: opposite of hello
-  messageDuration: 1
+  messageDuration: 2
 --- !u!114 &1198426669
 MonoBehaviour:
   m_ObjectHideFlags: 0
